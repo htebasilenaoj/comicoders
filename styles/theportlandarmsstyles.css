@@ -1,0 +1,36 @@
+h1 {
+  width: 900px;
+  height: 31px;
+  top: 298px;
+
+  font-family: futura-medium;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 31px;
+  text-align: center;
+
+  color: #2F586E;
+}
+
+img.imgs {
+  width: 400px;
+  height: 200px;
+  display: flex;
+  border: 5px solid #D1953A;
+  border-radius: 10px;
+}
+
+body {
+  font-family: futura-medium;
+}
+
+button {
+  font-family: futura-medium;
+}
+
+#map {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
