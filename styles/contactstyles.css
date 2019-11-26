@@ -1,0 +1,25 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  min-height: 100vh;
+}
+.navigation {
+  padding: 16px;
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-link {
+color:  black;
+font: arial;
+}
+
+.logo {
+  display: inline-block;
+  width: 149px;
+  height: 212px;
+}
