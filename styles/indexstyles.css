@@ -9,19 +9,19 @@
 }
 
 .thirsty {
-  background-image: url('../images/thirsty.jpg');
+  background-image: url('images/thirsty.jpg');
 }
 
 .boathouse {
-  background-image: url('../images/boathouse.jpg');
+  background-image: url('images/boathouse.jpg');
 }
 
 .portland {
-  background-image: url('../images/portland_arms.jpg');
+  background-image: url('images/portland_arms.jpg');
 }
 
 .waterman {
-  background-image: url('../images/waterman.jpg');
+  background-image: url('images/waterman.jpg');
 }
 
 .wrapper {
