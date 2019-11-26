@@ -1,0 +1,52 @@
+.imagegrid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.image-pub {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.thirsty {
+  background-image: url('../images/thirsty.jpg');
+}
+
+.boathouse {
+  background-image: url('../images/boathouse.jpg');
+}
+
+.portland {
+  background-image: url('../images/portland_arms.jpg');
+}
+
+.waterman {
+  background-image: url('../images/waterman.jpg');
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  min-height: 100vh;
+}
+
+.navigation {
+  padding: 16px;
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-link {
+color:  black;
+font: arial;
+}
+
+.logo {
+  display: inline-block;
+  width: 149px;
+  height: 212px;
+}
