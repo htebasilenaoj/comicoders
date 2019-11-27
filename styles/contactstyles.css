@@ -23,3 +23,9 @@ font: arial;
   width: 149px;
   height: 212px;
 }
+
+.container {
+  position: absolute;
+  top: 70px;
+  right: 15px;
+}
