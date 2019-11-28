@@ -23,3 +23,22 @@ font: arial;
   width: 149px;
   height: 212px;
 }
+
+.container {
+  position: absolute;
+  top: 300px;
+  right: 300px;
+  max-width: 700px;
+}
+
+.heading {
+  position: absolute;
+  top: 80px;
+  right: 510px;
+  max-width: 700px;
+}
+
+h1 {
+  font-size: 40px;
+  font-style: arial;
+}
