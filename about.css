@@ -60,8 +60,7 @@ h1{ font-family:futura-medium;
       }
       @media (max-width: 767px) { 
         .left-column{
-            
-display:none;
+                display:none;
               }
         }
     }
