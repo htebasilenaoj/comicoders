@@ -10,11 +10,6 @@
   top: 0;
 }
 
-@media (max-width: 767px) {
-        .left-column{
-display:none;
-}
-
 .menu {
   display: flex;
   flex-direction: column;
