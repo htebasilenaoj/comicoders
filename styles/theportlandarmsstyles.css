@@ -76,3 +76,13 @@ button {
   justify-content: right;
   padding-left: 350px;
 }
+
+@media screen and (max-width: 375px) {
+  .wrapper {
+    flex-direction: column;
+  }
+  .overall {
+    min-height: 200vh;
+    grid-template-columns: 100%;
+  }
+}
